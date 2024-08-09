@@ -10,8 +10,6 @@ This project is a keylogger that captures keystrokes, checks for forbidden keywo
 ![generate key output](https://github.com/user-attachments/assets/5b21e07d-e36e-48e4-8488-c545ee7da76f)
 ![decryption  pic](https://github.com/user-attachments/assets/e6dc4b4c-b656-4f06-a2a3-8774df5e3722)
 
-
-
 # Inputs To Mail
 
 Get Keyboard,ScreenShot,Microphone Inputs and Send to your Mail. 
@@ -47,6 +45,7 @@ Get Keyboard,ScreenShot,Microphone Inputs and Send to your Mail.
    Packages: time, winsound, smtplib, email, pyperclip, pyautogui, sounddevice, numpy, scipy, pynput, cryptography, platform, socket, requests, base64
 
 2.Configure Email Settings:
+
  Update the sender_email, receiver_email, and email_password variables with your email credentials.
 
 
