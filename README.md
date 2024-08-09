@@ -2,7 +2,17 @@
 
 This project is a keylogger that captures keystrokes, checks for forbidden keywords, encrypts sensitive data, and sends alerts via email. It is intended for educational purposes and should be used responsibly.
 
- # Inputs To Mail
+# snapshots
+
+![output](https://github.com/user-attachments/assets/ba290d46-d2b5-4d33-afb5-271272750d32)
+![scrnshot capture](https://github.com/user-attachments/assets/3ecfd5e6-e3d5-4ef3-87d3-dc103dff22e7)
+![EMAIL](https://github.com/user-attachments/assets/b9d2301a-bdad-427a-9d79-c35e27ce6231)
+![generate key output](https://github.com/user-attachments/assets/5b21e07d-e36e-48e4-8488-c545ee7da76f)
+![decryption  pic](https://github.com/user-attachments/assets/e6dc4b4c-b656-4f06-a2a3-8774df5e3722)
+
+
+
+# Inputs To Mail
 
 Get Keyboard,ScreenShot,Microphone Inputs and Send to your Mail. 
 
